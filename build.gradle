@@ -1,0 +1,32 @@
+buildscript {
+	dependencies {
+		classpath group: "com.liferay", name: "com.liferay.gradle.plugins", version: "3.13.53"
+	}
+
+	repositories {
+		maven {
+			url "https://repository-cdn.liferay.com/nexus/content/groups/public"
+		}
+	}
+}
+
+apply plugin: "com.liferay.plugin"
+
+sourceCompatibility = "1.8"
+targetCompatibility = "1.8"
+
+dependencies {
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.api", version: "5.0.0"
+	compileOnly group: "com.liferay.commerce", name: "com.liferay.commerce.product.api", version: "4.0.0"
+
+	compileOnly group: "com.liferay.portal", name: "com.liferay.portal.kernel", version: "3.5.0"
+
+	compileOnly group: "org.osgi", name: "org.osgi.core", version: "6.0.0"
+	compileOnly group: "org.osgi", name: "osgi.cmpn", version: "6.0.0"
+}
+
+repositories {
+	maven {
+		url "https://repository-cdn.liferay.com/nexus/content/groups/public"
+	}
+}

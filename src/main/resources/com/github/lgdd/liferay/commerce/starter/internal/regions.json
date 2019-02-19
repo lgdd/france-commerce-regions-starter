@@ -1,0 +1,92 @@
+[
+  {
+    "priority": 1,
+    "code":"ARA",
+    "name":"Auvergne-Rh\u00f4ne-Alpes"
+  },
+  {
+    "priority": 2,
+    "code":"BFC",
+    "name":"Bourgogne-Franche-Comt\u00e9"
+  },
+  {
+    "priority": 3,
+    "code":"BRE",
+    "name":"Bretagne"
+  },
+  {
+    "priority": 4,
+    "code":"COR",
+    "name":"Corse"
+  },
+  {
+    "priority": 5,
+    "code":"CVL",
+    "name":"Centre-Val de Loire"
+  },
+  {
+    "priority": 6,
+    "code":"GES",
+    "name":"Grand-Est"
+  },
+  {
+    "priority": 7,
+    "code":"GUF",
+    "name":"Guyane"
+  },
+  {
+    "priority": 8,
+    "code":"GUA",
+    "name":"Guadeloupe"
+  },
+  {
+    "priority": 9,
+    "code":"HDF",
+    "name":"Hauts-de-France"
+  },
+  {
+    "priority": 10,
+    "code":"IDF",
+    "name":"\u00cele-de-France"
+  },
+  {
+    "priority": 11,
+    "code":"LRE",
+    "name":"La R\u00e9union"
+  },
+  {
+    "priority": 12,
+    "code":"MAY",
+    "name":"Mayotte"
+  },
+  {
+    "priority": 13,
+    "code":"MTQ",
+    "name":"Martinique"
+  },
+  {
+    "priority": 14,
+    "code":"NAQ",
+    "name":"Nouvelle-Aquitaine"
+  },
+  {
+    "priority": 15,
+    "code":"NOR",
+    "name":"Normandie"
+  },
+  {
+    "priority": 16,
+    "code":"OCC",
+    "name":"Occitanie"
+  },
+  {
+    "priority": 17,
+    "code":"PAC",
+    "name":"Provence-Alpes-C\u00f4te-d\u2019Azur"
+  },
+  {
+    "priority": 18,
+    "code":"PDL",
+    "name":"Pays-de-la-Loire"
+  }
+]
