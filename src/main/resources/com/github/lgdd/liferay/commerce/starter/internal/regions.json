@@ -81,12 +81,12 @@
   },
   {
     "priority": 17,
-    "code":"PAC",
-    "name":"Provence-Alpes-C\u00f4te-d\u2019Azur"
+    "code":"PDL",
+    "name":"Pays-de-la-Loire"
   },
   {
     "priority": 18,
-    "code":"PDL",
-    "name":"Pays-de-la-Loire"
+    "code":"PAC",
+    "name":"Provence-Alpes-C\u00f4te-d\u2019Azur"
   }
 ]
